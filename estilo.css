@@ -1,0 +1,27 @@
+header
+{
+    background-color: darkred;
+    color: beige;
+    font-size: 300%;
+    text-align: center;
+}
+nav
+{
+background-color: black;
+color: aliceblue;
+font-size: 150%;
+text-align: center;
+}
+main
+{
+    background-color: rgb(96, 14, 14);
+    color: aliceblue;
+    text-align: justify;
+
+}
+footer
+{
+    background-color: black;
+    color: aliceblue;
+    text-align: right;
+}
